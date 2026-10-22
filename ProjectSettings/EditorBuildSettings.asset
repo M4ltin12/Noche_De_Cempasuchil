@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/NocheDeMuertos/Scenes/MainMenu.unity
+    guid: 41ac5d06919103f4da9da5194e2ad12f
+  - enabled: 1
+    path: Assets/NocheDeMuertos/Scenes/Juego.unity
+    guid: 1f24ec1ed6f77cc48971b20832059016
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
